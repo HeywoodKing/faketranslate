@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eb09a49-59bc-4242-984b-e07c7eb2f8e4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pytranslate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/faketranslate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytranslate/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytranslate/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytranslate/pytranslate.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytranslate/pytranslate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytranslate/setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytranslate/setting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-    </list>
+    <list default="true" id="1eb09a49-59bc-4242-984b-e07c7eb2f8e4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +224,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577767843161</updated>
-      <workItem from="1577803953533" duration="14356000" />
+      <workItem from="1577803953533" duration="16834000" />
     </task>
     <servers />
   </component>
@@ -246,14 +232,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="494" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577804665535">
+    <state x="494" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1577890596058">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="494" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1577804665535" />
-    <state x="198" y="31" key="SettingsEditor" timestamp="1577804670819">
+    <state x="494" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1577890596058" />
+    <state x="198" y="31" key="SettingsEditor" timestamp="1577890600001">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="198" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1577804670819" />
+    <state x="198" y="31" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1577890600001" />
     <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1577845567571">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

@@ -1,10 +1,10 @@
-# PyTranslate
+# FakeTranslate
 
 ## 安装(一定要全局安装，这样才能在任何地方打开终端窗口就能使用)
 ```
-pip3 install faketranslate -i https://pypi.douban.com/simple
+pip3 install fake-translate -i https://pypi.douban.com/simple
 或
-pipenv install faketranslate
+pipenv install fake-translate
 ```
 
 ## 使用

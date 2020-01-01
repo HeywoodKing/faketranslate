@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+fake_translate.egg-info/PKG-INFO
+fake_translate.egg-info/SOURCES.txt
+fake_translate.egg-info/dependency_links.txt
+fake_translate.egg-info/not-zip-safe
+fake_translate.egg-info/requires.txt
+fake_translate.egg-info/top_level.txt
+faketranslate/__init__.py
+faketranslate/metadata.py
+faketranslate/setting.py
+faketranslate/translate.py
